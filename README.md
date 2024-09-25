@@ -3,7 +3,6 @@
 #### I am a Full Stack Developer, who loves to turn dreams and ideas into code
 
 
-![I am a Full Stack Developer, who loves to turn dreams and ideas into code](https://media-exp1.licdn.com/dms/image/C4D16AQGe8sAKuK7OtA/profile-displaybackgroundimage-shrink_200_800/0/1596618786744?e=1616630400&v=beta&t=A7G5HfJr_wV44mzv228Dl6Ym-XQU-k4fdZyEoHaeT9A)
 
 I am the guy, who wrote his first line of code at the age of eight (Commodore Plus 4 - BASIC :open_mouth:) and decades later, finally decide to learn how to code in a higher level. I started my journey in May of 2020, and since then, I am coding. 
 
